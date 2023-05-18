@@ -1,0 +1,11 @@
+#ifndef GLOBAL_CONFIG_H
+#define GLOBAL_CONFIG_H
+
+#define SYSTEM_SMALL_ENDIAN
+
+#define PROGRAM_ERROR 1
+#define PROGRAM_OK 0
+
+#define OS_PATH_SEPARATOR '\\'
+
+#endif // ~GLOBAL_CONFIG_H
